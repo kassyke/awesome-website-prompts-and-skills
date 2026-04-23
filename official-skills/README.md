@@ -9,7 +9,14 @@
    - **WorkBuddy**：`~/.codebuddy/skills/`
    - **Claude Code**：`~/.claude/skills/`
    - **Cursor**：项目 `.cursor/rules/` 或全局 skills 目录
-3. 在 AI 对话中用自然语言触发，例如：`"帮我用 ai-saas-skill 搭一个 AI SaaS 部署到 EdgeOne Pages"`
+3. 在 AI 对话中用自然语言触发，并把 Skill 的 GitHub 地址一并贴上，让 AI 自动读取完整定义。例如：
+
+   ```
+   帮我用这个 Skill 搭一个 AI SaaS 部署到 EdgeOne Pages：
+   https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills/tree/main/official-skills/ai-saas-skill
+   ```
+
+4. AI 会按 Skill 定义的 SOP 完成整个项目的搭建，并部署到 [EdgeOne Pages](https://pages.edgeone.ai/)
 
 ---
 
@@ -20,20 +27,6 @@
 | [ai-saas-skill](./ai-saas-skill) | 基于 `TencentEdgeOne/saas-starter` 模板交互式搭建 SaaS 网站并部署到 EdgeOne Pages | AI SaaS、卖课、AI 工具站 |
 
 > 随着「WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛」推进，更多优秀作品将陆续沉淀在此。
-
----
-
-## Skill vs Prompt，有啥区别？
-
-| | Prompt | Skill |
-|---|---|---|
-| 形态 | 一段 Markdown 文本 | 一个目录（SKILL.md + references/） |
-| 触发 | 复制粘贴 | 自然语言，AI 自动识别 |
-| 复用性 | 适合单次建站 | 适合多次、多场景复用 |
-| 灵活度 | 高（改 Prompt 即可） | 中（需修改 Skill 内部逻辑） |
-| 门槛 | 低 | 中等 |
-
-如果你只是想造一个站，**Prompt** 更快；如果你想让一类站的搭建变得标准化可复用，**Skill** 更值得投入。
 
 ---
 
