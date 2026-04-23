@@ -1,6 +1,6 @@
 # Prompts（官方示例 Prompt）
 
-> Tencent EdgeOne 维护的**建站提示词合集**——复制一段 Prompt 喂给 AI，即可生成并部署一个完整网站。
+> Tencent EdgeOne 维护的**建站提示词合集**——复制一段 Prompt 喂给 AI，即可生成并部署一个精美酷炫的前端网站。
 
 ## 如何使用
 

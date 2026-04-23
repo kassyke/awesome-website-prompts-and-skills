@@ -1,6 +1,6 @@
 # Skills（官方示例 Skill）
 
-> 遵循 [Anthropic Skills 规范](https://www.anthropic.com/news/claude-skills) 的可复用建站能力包——一句话触发，AI 按 SOP 搭站并使用到 EdgeOne Pages 的网站开发和部署能力。
+> Tencent EdgeOne 维护的**建站能力包合集**——安装一个 Skill，用一句话触发，AI 就能生成并部署一个带登录、支付、AI 等完整能力的网站。
 
 ## 如何使用
 
