@@ -68,14 +68,20 @@
 推荐使用 **[WorkBuddy](https://www.codebuddy.cn/work/)**（原生支持 Skills、与 EdgeOne Pages 无缝协作），也可以用 Claude Code / Cursor 等：
 
 ````
-请帮我学习这个 GitHub 仓库里的官方示例：
+请帮我学习以下两个 GitHub 仓库：
+
+【1】挑战赛官方示例仓库（学习 Prompt / Skill 的写法与水准）：
 https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills
 
-1. 阅读 official-prompts/ 和 official-skills/ 下所有示例
-2. 帮我分析：一个合格的建站 Prompt / Skill，应该包含哪些结构、字段和信息密度
+【2】EdgeOne Pages 官方能力 Skill 仓库（包含 edgeone-pages-dev 与 edgeone-pages-deploy，涵盖 Edge Functions / Cloud Functions / KV Storage / 部署上线 等能力）：
+https://github.com/TencentEdgeOne/edgeone-pages-skills
+
+请完成以下任务：
+1. 阅读【1】中 official-prompts/ 和 official-skills/ 下所有示例，并阅读【2】中 edgeone-pages-dev 与 edgeone-pages-deploy 两个 Skill
+2. 帮我分析：一个合格的建站 Prompt / Skill，应该包含哪些结构、字段和信息密度；以及 EdgeOne Pages 提供了哪些可以被我调用的开发与部署能力
 3. 我要参加「WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛」，
    我的参赛想法是：___（在这里描述你的创意方向）
-4. 结合官方示例的水准，帮我设计并产出一份高质量的 Prompt 或 Skill
+4. 结合【1】的示例水准 + 【2】的平台能力，帮我设计并产出一份高质量的 Prompt 或 Skill
 ````
 
 ### 第 2 步：AI 会产出你的参赛作品
