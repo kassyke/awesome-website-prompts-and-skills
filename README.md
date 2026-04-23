@@ -82,9 +82,9 @@ https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills
 
 AI 会参考官方示例的结构，帮你把想法打磨成一份规范的 Prompt 或 Skill。
 
-### 第 3 步：在 EdgeOne Pages 上跑通
+### 第 3 步：跑通你的作品
 
-按 AI 的指引把你的 Prompt / Skill 实际跑一遍，**确保它能在 EdgeOne Pages 上成功部署**——这是挑战赛投稿的基本门槛。
+按 AI 的指引把作品从头到尾实际跑一遍，确认**整体完整度**——包括页面是否精美可用、交互是否流畅、登录/支付/AI 等能力是否正常工作，并通过 **EdgeOne Pages** 完成线上开发和部署，拿到可公开访问的链接。作品的完整度和使用体验是评审的重点。
 
 ### 第 4 步：提交参赛作品
 
@@ -117,7 +117,7 @@ AI 会参考官方示例的结构，帮你把想法打磨成一份规范的 Prom
 - 📨 **邮箱**：edgeonedeveloper@tencent.com
 - 🌐 **官网**：https://pages.edgeone.ai/
 
-### 📱 挑战赛微信群（第一批参赛者专属）
+### 📱 挑战赛微信群
 
 <img src="./assets/wechat-group-qrcode.png" width="240" alt="EdgeOne Pages 挑战赛微信群" />
 
