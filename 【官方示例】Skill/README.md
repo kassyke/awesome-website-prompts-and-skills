@@ -1,7 +1,6 @@
-# Skills
+# Skills（官方示例）
 
-> 遵循 [Anthropic Skills 规范](https://www.anthropic.com/news/claude-skills) 的可复用建站能力包。
-> 一句话触发，AI 按 SOP 帮你搭站 + 部署到 EdgeOne Pages。
+> 遵循 [Anthropic Skills 规范](https://www.anthropic.com/news/claude-skills) 的可复用建站能力包——一句话触发，AI 按 SOP 帮你搭站并部署到 EdgeOne Pages。
 
 ## 如何使用
 
@@ -20,7 +19,7 @@
 |---|---|---|
 | [ai-saas-skill](./ai-saas-skill) | 基于 `TencentEdgeOne/saas-starter` 模板交互式搭建 SaaS 网站并部署到 EdgeOne Pages | AI SaaS、卖课、AI 工具站 |
 
-> 随着「EdgeOne Pages AI Prompt × Skill 挑战赛」推进，更多参赛作品将陆续沉淀在此。
+> 随着「EdgeOne Pages AI Prompt × Skill 挑战赛」推进，更多优秀作品将陆续沉淀在此。
 
 ---
 
@@ -31,15 +30,11 @@
 | 形态 | 一段 Markdown 文本 | 一个目录（SKILL.md + references/） |
 | 触发 | 复制粘贴 | 自然语言，AI 自动识别 |
 | 复用性 | 适合单次建站 | 适合多次、多场景复用 |
-| 灵活度 | 高（改 Prompt 即可） | 中（需要修改 Skill 内部逻辑） |
+| 灵活度 | 高（改 Prompt 即可） | 中（需修改 Skill 内部逻辑） |
 | 门槛 | 低 | 中等 |
 
 如果你只是想造一个站，**Prompt** 更快；如果你想让一类站的搭建变得标准化可复用，**Skill** 更值得投入。
 
 ---
 
-## 想贡献一个 Skill？
-
-欢迎！
-→ 详见 [CONTRIBUTING.md](../CONTRIBUTING.md#三贡献-skill)
-→ 使用模板 [templates/skill-template/](../templates/skill-template)
+↩ [返回仓库首页](../README.md)
