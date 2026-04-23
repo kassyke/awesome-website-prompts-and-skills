@@ -1,6 +1,6 @@
-# Skills（官方示例）
+# Skills（官方示例 Skill）
 
-> 遵循 [Anthropic Skills 规范](https://www.anthropic.com/news/claude-skills) 的可复用建站能力包——一句话触发，AI 按 SOP 帮你搭站并部署到 EdgeOne Pages。
+> 遵循 [Anthropic Skills 规范](https://www.anthropic.com/news/claude-skills) 的可复用建站能力包——一句话触发，AI 按 SOP 搭站并使用到 EdgeOne Pages 的网站开发和部署能力。
 
 ## 如何使用
 
@@ -19,7 +19,7 @@
 |---|---|---|
 | [ai-saas-skill](./ai-saas-skill) | 基于 `TencentEdgeOne/saas-starter` 模板交互式搭建 SaaS 网站并部署到 EdgeOne Pages | AI SaaS、卖课、AI 工具站 |
 
-> 随着「EdgeOne Pages AI Prompt × Skill 挑战赛」推进，更多优秀作品将陆续沉淀在此。
+> 随着「WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛」推进，更多优秀作品将陆续沉淀在此。
 
 ---
 

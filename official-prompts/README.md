@@ -1,4 +1,4 @@
-# Prompts（官方示例）
+# Prompts（官方示例 Prompt）
 
 > Tencent EdgeOne 维护的**建站提示词合集**——复制一段 Prompt 喂给 AI，即可生成并部署一个完整网站。
 
@@ -17,7 +17,7 @@
 |---|---|---|
 | [Luxury Jewelry Ecommerce Website](./luxury-jewelry-ecommerce-website.md) | 奢侈品珠宝电商单页站（Maison Perle） | React + Vite + TS + Tailwind + shadcn/ui + Edge Functions |
 
-> 随着「EdgeOne Pages AI Prompt × Skill 挑战赛」推进，更多优秀作品将陆续沉淀在此。
+> 随着「WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛」推进，更多优秀作品将陆续沉淀在此。
 
 ---
 
